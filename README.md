@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently studying at the King Mongkut's Institute of Technology Ladkrabang
 
 <!--
 **PaoArisara/PaoArisara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
