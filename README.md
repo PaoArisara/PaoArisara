@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at King Mongkut's Institute of Technology Ladkrabang<br><br>🌱 I’m currently learning **Nextjs. Flutter**<br><br>💬 Ask me about **React Tailwind CSS**<br><br>📫 How to reach me **arisara.pao@gmail.com**<br>
+🔭 I’m currently studying at King Mongkut's Institute of Technology Ladkrabang<br><br>🌱 I’m currently learning **Angular Golang **<br><br>💬 Ask me about **React Tailwind CSS**<br><br>📫 How to reach me **arisara.pao@gmail.com**<br>
 
 
 ## 🌐 Socials:
